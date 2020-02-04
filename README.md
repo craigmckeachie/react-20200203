@@ -9,6 +9,7 @@
 
 # To Do
 
+- [ ] Review First Bind Demo
 - [ ] Destructuring
 - [ ] Show finished app we are building in labs
 - [ ] Day 2 Outline
