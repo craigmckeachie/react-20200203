@@ -8,6 +8,7 @@
 - [ES/JavaScript Compatibility Table](https://kangax.github.io/compat-table/es6/)
 - [Paste Clean Diff: VS Code Extension](https://marketplace.visualstudio.com/items?itemName=sivasubramanyam.paste-clean-diff)
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+- [Integrating React with jQuery](https://reactjs.org/docs/integrating-with-other-libraries.html)
 
 # To Do
 
