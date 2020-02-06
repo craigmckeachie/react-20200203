@@ -15,6 +15,8 @@
 - [React Router Redirect](https://reacttraining.com/react-router/web/api/Redirect/from-string)
 - [Query Parameter Example with Custom Hook](https://reacttraining.com/react-router/web/example/query-parameters)
 - [Create React App with Express Backend](https://daveceddia.com/create-react-app-express-backend/)
+- [DEPRECATED Component Will Update](https://reactjs.org/docs/react-component.html#unsafe_componentwillupdate)
+- [Google Maps React Component](https://blog.vanila.io/writing-a-google-maps-react-component-fae411588a91)
 
 # To Do
 
