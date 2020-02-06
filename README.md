@@ -9,9 +9,15 @@
 - [Paste Clean Diff: VS Code Extension](https://marketplace.visualstudio.com/items?itemName=sivasubramanyam.paste-clean-diff)
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [Integrating React with jQuery](https://reactjs.org/docs/integrating-with-other-libraries.html)
+- [JSON Server](https://github.com/typicode/json-server)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Async Await Error Handling](https://javascript.info/async-await#error-handling)
+- [React Router Redirect](https://reacttraining.com/react-router/web/api/Redirect/from-string)
+- [Query Parameter Example with Custom Hook](https://reacttraining.com/react-router/web/example/query-parameters)
+- [Create React App with Express Backend](https://daveceddia.com/create-react-app-express-backend/)
 
 # To Do
 
 - [ ] Review Notes
-- [ ] Day 3 Outline
+- [ ] Day 4 Outline
 - [ ] Select `<option selected>`
